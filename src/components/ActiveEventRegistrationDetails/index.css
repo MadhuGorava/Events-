@@ -1,0 +1,53 @@
+/* Write your CSS here */
+.no-active-container {
+  background-color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.no-active-heading {
+  color: #64748b;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: 600;
+}
+
+.register-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.register-image {
+  height: 200px;
+  width: 150px;
+}
+
+.icon-card {
+  display: flex;
+  align-items: center;
+}
+
+.success-icon {
+  height: 50px;
+  width: 50px;
+}
+
+.register-btn {
+  color: whitesmoke;
+  background-color: blue;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  padding: 6px;
+  border-radius: 10px;
+  border-width: 0px;
+}
+
+.heading {
+  color: #252525;
+  font-size: 35px;
+  font-family: 'Roboto';
+  font-weight: 600;
+}
